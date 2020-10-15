@@ -19,9 +19,8 @@ Oh, come on.
 Do you {{have}} a moment, sir?
 
 6
-00:02:32,000 --> 00:02:37,050
+00:02:32,000 --> 00:02:35,050
 I'm {{kind of}} in the middle of {{something}} here.
-Yes? Thank you.
 
 7
 00:02:37,050 --> 00:02:38,950
@@ -122,7 +121,6 @@ Okay half. Half a minute.
 
 31
 00:04:25,100 --> 00:04:29,300
-I knew it.
 I knew it.
 
 32

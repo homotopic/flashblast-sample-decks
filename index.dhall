@@ -1,6 +1,9 @@
 let MultiClozeSpec = { phrases : List Text, images : List Text }
 
-let VideoSource = < LocalVideo : Text | YouTubeDL : { url : Text, out : Text, format : Text } >
+let VideoSource =
+      < LocalVideo : Text
+      | YouTubeDL : { url : Text, out : Text, format : Text }
+      >
 
 let ExcerptSpec =
       { source : VideoSource
@@ -46,5 +49,5 @@ in  { decks =
             ]
           }
         }
-        ]
+      ]
     }

@@ -2,19 +2,32 @@
 
 This is the sample deck for [flashblast](https://gitlab.com/homotopic-tech/flashblast)
 
-To use it you will need `anki`, `danki`, `youtube-dl` and `ffmpeg`.
+## Setup
 
-Download the example video from youtube and place it where the config expects.
+To use it you will need `anki`, `flashblast`, `youtube-dl` and `ffmpeg`.
 
-```
-mkdir -p en/video
-```
+Use the anki GUI to load the `Flashblast Template Deck.apkg` into your user
+profile. This will provide the note types that flashblast uses.
 
-Then run
+## Usage
+
+cd to the repository root and run
+
 ```
 flashblast
 ```
 
-And it will output the deck in `out/`. Make your own cards by following the provided examples.
+This will output the decks in `out/`. You can view the clips in
+`/out/decks/<deck>/clips` to verify your subtitles align correctly.
 
-You should manually copy all of the media files that you need to your user profile in `~/.local/share/Ani2/<profile>/collection.media`, but this will be automatic at some point.
+Use the anki GUI to import the notes file in `out/decks/en/excerpts.csv`. Make sure to tick `enable HTML` and
+
+Copy the generated stills and audio to your user profile.
+
+```
+export ANKI_PROFILE=myusername
+cp out/decks/en/images/* "~/.local/share/Ani2/$ANKI_PROFILE/collection.media/"
+cp out/decks/en/audio/* "~/.local/share/Ani2/$ANKI_PROFILE/collection.media/"
+```
+
+That should be it! Set your frequency settings and enjoy your cards.
