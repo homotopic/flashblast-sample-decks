@@ -7,11 +7,11 @@
 Do you {{have}} a moment, sir?
 
 6
-00:02:32,000 --> 00:02:35,050
+00:02:32,000 --> 00:02:34,800
 I'm {{kind of}} in the middle of {{something}} here.
 
 7
-00:02:37,050 --> 00:02:38,950
+00:02:35,200 --> 00:02:38,950
 I've {{come}} a long way for you, Franck.
 
 8
@@ -19,7 +19,7 @@ I've {{come}} a long way for you, Franck.
 {{My name is}} Victor.
 
 11
-00:02:58,000 --> 00:02:59,500
+00:02:57,000 --> 00:02:59,500
 {{You are}} Franck.
 
 12
@@ -27,7 +27,7 @@ I've {{come}} a long way for you, Franck.
 You are so much {{more}} than just a sheep, {{aren't you}}?
 
 13
-00:03:05,000 --> 00:03:08,000
+00:03:04,500 --> 00:03:08,200
 Oh yeah? How {{would}} you know?
 
 14
@@ -51,7 +51,7 @@ One {{doesn’t}} even {{choose}} to be a wolf.
 I don’t know {{what you’re on about}} but I'm {{just}} a sheep minding its own {{business}}.
 
 23
-00:03:46,000 --> 00:03:48,600
+00:03:46,000 --> 00:03:49,000
 And I {{suggest}} you {{do the same}}.
 
 26
@@ -63,7 +63,7 @@ Just give me {{one minute}} of your precious {{time}}.
 {{Precious}} time? Hehehe.
 
 28
-00:04:01,500 --> 00:04:03,500
+00:04:01,500 --> 00:04:03,800
 Yeah {{just}} give me one minute.
 
 29
@@ -71,11 +71,11 @@ Yeah {{just}} give me one minute.
 You would have {{one more}} minute, wouldn't you?
 
 32
-00:04:29,300 --> 00:04:32,000
+00:04:29,300 --> 00:04:32,500
 You will not {{regret}} this.
 
 33
-00:04:32,000 --> 00:04:35,000
+00:04:32,500 --> 00:04:35,000
 The adventures you {{will}} have.
 
 34
@@ -87,16 +87,12 @@ All the lives you've ever {{wanted}}.
 All you’ve been {{missing}}.
 
 36
-00:04:41,700 --> 00:04:46,000
+00:04:41,700 --> 00:04:46,300
 Here. This is... the best {{product}} we have... in store.
 
 37
-00:04:46,000 --> 00:04:50,000
-Variable spin {{speed}}, {{excellent}} tumble performance...
-
-38
-00:04:50,000 --> 00:04:54,000
-...in one... handy... {{device}}. Squeaky clean.
+00:04:46,500 --> 00:04:54,000
+Variable spin {{speed}}, {{excellent}} tumble performance... ...in one... handy... {{device}}. {{Squeaky clean}}.
 
 39
 00:04:57,000 --> 00:05:01,000
@@ -115,11 +111,11 @@ No more need for {{hooves}}.
 {{No more}} sheepy business.
 
 46
-00:05:16,700 --> 00:05:18,500
+00:05:16,700 --> 00:05:19,500
 How does this thing {{work}}?
 
 47
-00:05:18,500 --> 00:05:21,000
+00:05:19,500 --> 00:05:21,000
 {{I mean}}, how do I {{make it}} work?
 
 49
@@ -127,9 +123,5 @@ How does this thing {{work}}?
 I just {{turned it on}} {{for you}}.
 
 52
-00:05:30,000 --> 00:05:33,000
-We will {{pick you up}}. Don't worry, just {{stay}} here.
-
-53
-00:05:33,000 --> 00:05:35,000
-In this {{exact}} place.
+00:05:30,000 --> 00:05:37,000
+We will {{pick you up}}. Don't worry, just {{stay}} here. In this {{exact place}}. {{Don't move}}. Just wait.

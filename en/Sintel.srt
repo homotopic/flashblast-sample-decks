@@ -3,27 +3,27 @@
 This {{blade}} has a {{dark}} past.
 
 2
-00:01:51,800 --> 00:01:55,800
+00:01:51,500 --> 00:01:55,800
 It {{has shed}} {{much}} {{innocent}} blood.
 
 3
-00:01:58,000 --> 00:02:01,450
+00:01:57,000 --> 00:02:01,450
 {{You're}} a fool for {{traveling}} {{alone}}, so completely {{unprepared}}.
 
 4
-00:02:01,750 --> 00:02:04,800
+00:02:01,450 --> 00:02:04,800
 You're lucky your {{blood's}} still {{flowing}}.
 
 7
-00:02:09,400 --> 00:02:13,800
+00:02:09,400 --> 00:02:12,500
 What {{brings}} you to the land of the {{gatekeepers}}?
 
 8
-00:02:15,000 --> 00:02:17,500
+00:02:14,000 --> 00:02:17,500
 I'm {{searching}} for someone.
 
 9
-00:02:18,000 --> 00:02:22,200
+00:02:17,500 --> 00:02:22,200
 {{Someone}} very dear? A kindred {{spirit}}?
 
 11
@@ -35,15 +35,15 @@ A {{dangerous}} {{quest}} {{for}} a lone {{hunter}}.
 I've been {{alone}} for {{as long as}} I can {{remember}}.
 
 13
-00:03:27,250 --> 00:03:30,500
+00:03:27,250 --> 00:03:30,200
 We're {{almost}} done. Shhh...
 
 14
-00:03:30,750 --> 00:03:33,500
+00:03:30,200 --> 00:03:33,500
 Hey, sit {{still}}.
 
 15
-00:03:48,250 --> 00:03:52,250
+00:03:47,250 --> 00:03:52,250
 {{Good night}}, Scales.
 
 16
@@ -59,9 +59,9 @@ I have {{failed}}.
 {{You've}} {{only}} failed {{to see}}...
 
 22
-00:07:37,800 --> 00:07:40,500
+00:07:37,000 --> 00:07:40,500
 {{These}} are dragon {{lands}}, Sintel.
 
 23
-00:07:40,850 --> 00:07:44,000
+00:07:40,500 --> 00:07:44,000
 You are {{closer}} {{than}} you know.
