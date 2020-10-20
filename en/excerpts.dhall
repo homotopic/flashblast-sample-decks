@@ -1,10 +1,7 @@
-let VideoSource =
-      < LocalVideo : Text
-      | YouTubeDL : { url : Text, out : Text, format : Text }
-      >
+let FB = ../fb.dhall
 
 in  [ { source =
-          VideoSource.YouTubeDL
+          FB.VideoSource.YouTubeDL
             { url = "https://www.youtube.com/watch?v=Y-rmzh0PI3c"
             , out = "Cosmos Laundromat.mp4"
             , format = "mp4"
@@ -15,7 +12,7 @@ in  [ { source =
       , framef = λ(n : Text) → "Cosmos Laundromat-${n}.bmp"
       }
     , { source =
-          VideoSource.YouTubeDL
+          FB.VideoSource.YouTubeDL
             { url = "https://www.youtube.com/watch?v=eRsGyueVLvQ"
             , out = "Sintel.mp4"
             , format = "mp4"

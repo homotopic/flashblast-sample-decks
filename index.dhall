@@ -1,35 +1,4 @@
-let MultiClozeSpec = { phrases : List Text, images : List Text }
-
-let VideoSource =
-      < LocalVideo : Text
-      | YouTubeDL : { url : Text, out : Text, format : Text }
-      >
-
-let ExcerptSpec =
-      { source : VideoSource
-      , subs : Text
-      , clipf : Text → Text
-      , audiof : Text → Text
-      , framef : Text → Text
-      }
-
-let VariField = < Empty | Raw : Text | Images : List Text | Audio : Text >
-
-let MinimalReversedSpec = { from : VariField, to : VariField }
-
-let BasicReversedSpec =
-      { from : VariField
-      , from_extra : VariField
-      , to : VariField
-      , to_extra : VariField
-      }
-
-let Spec =
-      < Forvo : { locale : Text, spec : List MultiClozeSpec }
-      | Excerpt : List ExcerptSpec
-      | MinimalReversed : List MinimalReversedSpec
-      | BasicReversed : List BasicReversedSpec
-      >
+let FB = ./fb.dhall
 
 in  { decks =
       [ { mapKey = "en"
@@ -44,10 +13,11 @@ in  { decks =
             }
           , parts =
             [ { outfile = "excerpts.csv"
-              , spec = Spec.Excerpt ./en/excerpts.dhall
+              , spec = FB.Spec.Excerpt ./en/excerpts.dhall
               }
             ]
           }
         }
-      ]
+      ],
+      forvoApiKey = None Text
     }
